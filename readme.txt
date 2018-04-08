@@ -1,4 +1,4 @@
 git is version contraol system.
-git is free software.
+git is a free software.
 Creating a new branch is quick and simple.
 
